@@ -1,0 +1,12 @@
+streamlit
+osmnx>=2.0.0
+networkx
+folium
+streamlit-folium
+pandas
+numpy
+scikit-learn
+scipy
+langchain
+langchain-openai
+matplotlib
